@@ -8,9 +8,10 @@
     "type": "git",
     "url": "http://github.com/michaelord/modal.git"
   },
-  "devDependencies": {
-    "components/libs": "http://github.com/michaelord/libs.git"
-  },
+  "devDependencies": {},
   "author": "michaelord",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "components/libs": "http://github.com/michaelord/libs.git"
+  }
 }
