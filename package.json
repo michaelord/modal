@@ -1,17 +1,22 @@
 {
-  "name": "modal",
-  "private": true,
-  "description": "...",
-  "version": "0.1.0",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/michaelord/modal.git"
-  },
-  "devDependencies": {},
-  "author": "michaelord",
-  "keywords": [],
-  "dependencies": {
-    "components/libs": "http://github.com/michaelord/libs.git"
-  }
+	"name": "modal",
+	"private": true,
+	"description": "...",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/michaelord/modal.git"
+	},
+	"devDependencies": {},
+	"author": "michaelord",
+	"keywords": [],
+	"dependencies": {
+		"components/editable": "http://github.com/michaelord/editable.git",
+		"components/events": "http://github.com/michaelord/events.git",
+		"components/form": "http://github.com/michaelord/form.git",
+		"components/ui": "http://github.com/michaelord/ui.git",
+		"react-modal": "^3.10.1",
+		"components/types": "http://github.com/michaelord/types.git"
+	}
 }
